@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Minecraft Customization | Bash, Python, HTML, CSS & JavaScript
+  Minecraft Customization | Bash, Python, HTML, CSS, JavaScript & c#
 </p>
 
 <p align="center">
