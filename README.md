@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Minecraft Customization | Bash, Python, HTML, CSS, JavaScript & c#
+  Minecraft customization and other things | Bash, HTML, CSS & JavaScript
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
 <h2>About Me</h2>
 
 <ul>
-  <li>I like tweaking things until they look and feel right</li>
-  <li>I build scripts and small projects</li>
-  <li>I work with HTML, CSS, and JavaScript for clean interfaces</li>
-  <li>I enjoy creating unique setups</li>
+  <li>HTML, CSS & JavaScript</li>
+  <li>Web development</li>
+  <li>Scripts</li>
+  <li>UI and frontend design</li>
 </ul>
